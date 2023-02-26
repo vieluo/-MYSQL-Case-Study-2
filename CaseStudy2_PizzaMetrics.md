@@ -24,8 +24,7 @@ All datasets exist within the pizza_runner database schema - be sure to include 
 
 ## Case Study Questions
 This case study has LOTS of questions - they are broken up by area of focus including:
-* Pizza Metrics
-*  and Customer Experience
+* Pizza Metrics and Customer Experience
 * Ingredient Optimisation
 * Pricing and Ratings
 * Bonus DML Challenges (DML = Data Manipulation Language)
